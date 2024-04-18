@@ -1,3 +1,4 @@
+<img src="https://github.com/I-Frostbyte/I-Frostbyte/blob/main/Banner-Header.jpg" />
 <h1 align="center">Hi 👋, I'm Gilbert Tima</h1>
 <h3 align="center">A determined and open minded developer from Cameroon.</h3>
 
